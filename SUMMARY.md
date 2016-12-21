@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [cd](cd.md)
-* cat
-* Definitions
-* ls
-* mkdir
-* Operating System
+* [cat](cat.md)
+* [ls](ls.md)
+* [mkdir](mkdir.md)
+* [Definitions](definitions.md)
+* [Operating System](operating-system.md)
 
