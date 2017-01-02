@@ -11,4 +11,9 @@
 * [Definitions](definitions.md)
     * [Operating System](operating-system.md)
     * [Root Directory](root-directory.md)
+* [tail](tail.md)
+* [grep](grep.md)
+* [wget](wget.md)
+* [curl](curl.md)
+* [cp](cp.md)
 
