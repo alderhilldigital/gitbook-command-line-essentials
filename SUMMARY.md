@@ -6,5 +6,6 @@
 * [ls](ls.md)
 * [mkdir](mkdir.md)
 * [Definitions](definitions.md)
+    * [Operating System](operating-system.md)
 * [Operating System](operating-system.md)
 
