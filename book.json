@@ -1,3 +1,20 @@
 {
-
+    "title": "Command Line Essentials",
+    "author": "Alan Stirling",
+    "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Calibri",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
+    }
 }
