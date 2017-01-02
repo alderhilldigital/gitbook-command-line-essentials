@@ -4,13 +4,11 @@
 * [cd](cd.md)
 * [cat](cat.md)
 * [ls](ls.md)
-* head
+* [head](/head.md)
 * [tail](tail.md)
 * [grep](grep.md)
-* pipe
+* [pipe](/pipe.md)
 * [mkdir](mkdir.md)
-* [tail](tail.md)
-* [grep](grep.md)
 * [wget](wget.md)
 * [curl](curl.md)
 * [cp](cp.md)
@@ -22,6 +20,11 @@
 * [which](which.md)
 * [whereis](whereis.md)
 * [find](find.md)
-* [ln](ln.md)
+* [ln](/ln.md)
 * [exec](exec.md)
+* [Definitions](/definitions.md)
+  * [Operating System](/operating-system.md)
+  * [Root Directory](/root-directory.md)
+
+
 
