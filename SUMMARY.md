@@ -5,6 +5,9 @@
 * [cat](cat.md)
 * [ls](ls.md)
 * [mkdir](mkdir.md)
+* head
+* [pipe](pipe.md)
+* grep
 * [Definitions](definitions.md)
-* [Operating System](operating-system.md)
+* head
 
