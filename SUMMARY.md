@@ -10,4 +10,5 @@
 * [mkdir](mkdir.md)
 * [Definitions](definitions.md)
     * [Operating System](operating-system.md)
+    * [Root Directory](root-directory.md)
 
