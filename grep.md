@@ -28,9 +28,9 @@ These options return the lines before and after the line containing the matching
 
 `grep "test" -A 2 -B 3 info.log`
 
-This example will return any line containing the text "test" and the 2 lines before it and the 3 lines after it.
+This will return any line containing the text "test" and the 2 lines before it and the 3 lines after it.
 
 `grep "test" -C 3 info.log`
 
-This example will return any line containing the text "test" and the 3 lines before and after it.
+This will return any line containing the text "test" and the 3 lines before and after it.
 
