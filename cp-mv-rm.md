@@ -28,3 +28,13 @@ This is a wildcard operator that will match one or more of any character when se
 
 This will copy all the files in the projects directory with .html in the file name into a directory called html in the projects directory.
 
+# mv
+
+The mv command is short for '**m**o**v**e'. It has a similar usage to cp and rm but instead of copying or removing the files and directories it moves them leaving nothing in the original location.
+
+# rm
+
+The rm command is short for '**r**e**m**ove'. It has similar usage to mv cp and mv but instead of copying or moving the files and directories it removes them.
+
+
+
