@@ -19,10 +19,8 @@
 * [ln](ln.md)
 * [exec](exec.md)
 * [Definitions](definitions.md)
-  * [Operating System](operating-system.md)
-  * [Root Directory](root-directory.md)
-  * [Terminal](terminal.md)
-  * [sudo](https://www.gitbook.com/book/nowthistechnology/command-line-essentials/edit#)
-
-
+    * [Operating System](operating-system.md)
+    * [Root Directory](root-directory.md)
+    * [Terminal](terminal.md)
+    * [sudo](sudo.md)
 
