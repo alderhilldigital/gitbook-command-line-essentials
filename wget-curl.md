@@ -32,13 +32,13 @@ These options are used to specify a user name and password if they are required 
 
 `wget https://www.gnu.org/software/wget/secure/protected.html --user admin --password secretWord`
 
-This will download the protected.html file if the user name and password are correct
+This will download the protected.html file if the user name and password are correct.
 
  
 
-# Curl
+# curl
 
-
+The curl command is short for "see url". Similar to wget, it is used to download files via the http, https and ftp protocols. In most cases wget and curl can be used interchangeable. Two of the main differences are that curl can use many more protocols, not just the http, https and ftp protocols. However, curl cannot do recursion which is a big strength for wget.
 
 
 
