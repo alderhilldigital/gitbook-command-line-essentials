@@ -10,7 +10,7 @@
 * [pipe](pipe.md)
 * [mkdir](mkdir.md)
 * [wget & curl](wget-curl.md)
-* [cp, mv & rm](cp.md)
+* [cp, mv & rm](cp-mv-rm.md)
 * [mv](mv.md)
 * [rm](rm.md)
 * [chmod](chmod.md)
