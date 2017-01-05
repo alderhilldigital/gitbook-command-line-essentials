@@ -16,7 +16,6 @@
 * [which](which.md)
 * [whereis](whereis.md)
 * [find](find.md)
-* [ln](ln.md)
 * [exec](exec.md)
 * [Definitions](definitions.md)
     * [Operating System](operating-system.md)
