@@ -13,14 +13,16 @@
 * [cp, mv & rm](cp-mv-rm.md)
 * [chmod](chmod.md)
 * [chown](chown.md)
-* [sudo](sudo.md)
 * [which](which.md)
 * [whereis](whereis.md)
 * [find](find.md)
 * [ln](ln.md)
 * [exec](exec.md)
 * [Definitions](definitions.md)
-    * [Operating System](operating-system.md)
-    * [Root Directory](root-directory.md)
-    * [Terminal](terminal.md)
+  * [Operating System](operating-system.md)
+  * [Root Directory](root-directory.md)
+  * [Terminal](terminal.md)
+  * [sudo](https://www.gitbook.com/book/nowthistechnology/command-line-essentials/edit#)
+
+
 
