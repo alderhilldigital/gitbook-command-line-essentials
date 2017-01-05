@@ -10,7 +10,7 @@
 * [pipe](pipe.md)
 * [mkdir](mkdir.md)
 * [wget & curl](wget-curl.md)
-* [cp](cp.md)
+* [cp, mv & rm](cp.md)
 * [mv](mv.md)
 * [rm](rm.md)
 * [chmod](chmod.md)
@@ -22,9 +22,7 @@
 * [ln](ln.md)
 * [exec](exec.md)
 * [Definitions](definitions.md)
-  * [Operating System](operating-system.md)
-  * [Root Directory](root-directory.md)
-  * [Terminal](terminal.md)
-
-
+    * [Operating System](operating-system.md)
+    * [Root Directory](root-directory.md)
+    * [Terminal](terminal.md)
 
