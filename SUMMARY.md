@@ -9,7 +9,7 @@
 * [grep](grep.md)
 * [pipe](pipe.md)
 * [mkdir](mkdir.md)
-* [wget & curl](/wget-curl.md)
+* [wget & curl](wget-curl.md)
 * [cp](cp.md)
 * [mv](mv.md)
 * [rm](rm.md)
