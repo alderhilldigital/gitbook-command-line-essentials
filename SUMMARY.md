@@ -16,9 +16,9 @@
 * [whatis, which & whereis](whatis-which-whereis.md)
 * [find](find.md)
 * [exec](exec.md)
+* [sudo](sudo.md)
 * [Definitions](definitions.md)
     * [Operating System](operating-system.md)
     * [Root Directory](root-directory.md)
     * [Terminal](terminal.md)
-    * [sudo](sudo.md)
 
