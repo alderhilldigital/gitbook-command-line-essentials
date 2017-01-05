@@ -13,7 +13,7 @@
 * [cp, mv & rm](cp-mv-rm.md)
 * [chmod](chmod.md)
 * [chown](chown.md)
-* [whatis, which & whereis](whatis-which--whereis.md)
+* [whatis, which & whereis](whatis-which-whereis.md)
 * [find](find.md)
 * [exec](exec.md)
 * [Definitions](definitions.md)
