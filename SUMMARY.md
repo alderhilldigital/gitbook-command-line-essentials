@@ -13,8 +13,6 @@
 * [cp, mv & rm](cp-mv-rm.md)
 * [chmod](chmod.md)
 * [chown](chown.md)
-* [which](which.md)
-* [whereis](whereis.md)
 * [find](find.md)
 * [exec](exec.md)
 * [Definitions](definitions.md)
