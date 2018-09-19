@@ -19,10 +19,10 @@
 * [exec](exec.md)
 * [sudo](sudo.md)
 * [history](history.md)
+* [reboot / shutdown](reboot-shutdown.md)
 * [Definitions](definitions.md)
   * [Operating System](/operating-system.md)
   * [Root Directory](/root-directory.md)
   * [Terminal](/terminal.md)
 * [Advanced](advanced.md)
-* [reboot / shutdown](reboot-shutdown.md)
 
