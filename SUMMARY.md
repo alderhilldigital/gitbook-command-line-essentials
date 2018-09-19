@@ -4,11 +4,12 @@
 * [cd](cd.md)
 * [pwd](pwd.md)
 * [cat](cat.md)
+* [echo](echo.md)
 * [ls](ls.md)
 * [head](head.md)
 * [tail](tail.md)
 * [grep](grep.md)
-* [pipe](pipe.md)
+
 * [mkdir](mkdir.md)
 * [wget & curl](wget-curl.md)
 * [cp, mv & rm](cp-mv-rm.md)
@@ -19,6 +20,6 @@
 * [exec](exec.md)
 * [sudo](sudo.md)
 * [history](history.md)
-* [pwd](pwd.md)
-* [echo](echo.md)
+
+
 
