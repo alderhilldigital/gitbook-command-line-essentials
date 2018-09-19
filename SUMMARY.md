@@ -23,6 +23,6 @@
   * [Operating System](/operating-system.md)
   * [Root Directory](/root-directory.md)
   * [Terminal](/terminal.md)
-
-
+* [Advanced](advanced.md)
+* [reboot / shutdown](reboot-shutdown.md)
 
