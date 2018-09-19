@@ -34,11 +34,17 @@ These options are used to specify a user name and password if they are required 
 
 This will download the protected.html file if the user name and password are correct.
 
- 
-
 # curl
 
 The curl command is short for "see url". Similar to wget, it is used to download files via the http, https and ftp protocols. In most cases wget and curl can be used interchangeable. Two of the main differences are that curl can use many more protocols, not just the http, https and ftp protocols. However, curl cannot do recursion which is a big strength for wget.
+
+curl will also output any response to the standard output window \(stdout\). This will make it display on the command line. To get curl to save the output to a file the -o option must be used to output the response to a file.
+
+**Example**
+
+```
+curl https://curl.haxx.se -o curl.html
+```
 
 
 
