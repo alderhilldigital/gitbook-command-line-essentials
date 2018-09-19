@@ -12,3 +12,11 @@ kill
 
 top/htop
 
+ping
+
+dig
+
+traceroute
+
+ifconfig
+
