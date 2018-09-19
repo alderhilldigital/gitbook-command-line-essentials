@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [cd](cd.md)
+* [pwd](pwd.md)
 * [cat](cat.md)
 * [ls](ls.md)
 * [head](head.md)
@@ -18,9 +19,6 @@
 * [exec](exec.md)
 * [sudo](sudo.md)
 * [history](history.md)
-* [Definitions](definitions.md)
-  * [Operating System](operating-system.md)
-  * [Root Directory](root-directory.md)
-  * [Terminal](terminal.md)
 * [pwd](pwd.md)
+* [echo](echo.md)
 
