@@ -13,11 +13,11 @@
 * [echo](echo.md)
 * [cat](cat.md)
 * [head](head.md)
-
 * [Exercise \(File Management\)](exercise-file-management.md)
-* [wget & curl](wget-curl.md)
 * [chmod](chmod.md)
 * [chown](chown.md)
+* [Exercise \(File Permissions\)](exercise-file-permissions.md)
+* [wget & curl](wget-curl.md)
 * [whatis, which & whereis](whatis-which-whereis.md)
 * [find](find.md)
 * [exec](exec.md)
@@ -25,6 +25,4 @@
 * [history](history.md)
 * [reboot / shutdown](reboot-shutdown.md)
 * [Advanced](advanced.md)
-
-
 
