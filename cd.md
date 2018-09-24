@@ -12,8 +12,6 @@ If the directory does not exist the following error will be displayed:
 
 `cd: no such file or directory: project`
 
-
-
 **Forward Slash \(/\)**
 
 Using a forward slash when entering a directory path with make it an 'absolute' path. This means that it will start in the [root directory](/root-directory.md).
@@ -24,8 +22,6 @@ Using a forward slash when entering a directory path with make it an 'absolute' 
 
 This will look for a directory called 'project' in the [operating system](/operating-system.md)'s [root directory](/root-directory.md).
 
-
-
 **Tilde \(~\)**
 
 Using a tilde when entering a directory path will start the path in the current user's home directory.
@@ -34,8 +30,6 @@ Using a tilde when entering a directory path will start the path in the current 
 
 `cd ~/project`
 
-
-
 **Full stop \(.\)**
 
 A full stop is used to indicate the current directory. This could be used when trying to reference a file in the current directory.
@@ -43,8 +37,6 @@ A full stop is used to indicate the current directory. This could be used when t
 **Example**
 
 `./project.zip`
-
-
 
 **Double Full Stop \(..\)**
 

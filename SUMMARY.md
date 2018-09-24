@@ -3,13 +3,13 @@
 * [Introduction](README.md)
 * [cd](cd.md)
 * [pwd](pwd.md)
+* [ls](ls.md)
+* [mkdir](mkdir.md)
 * [cat](cat.md)
 * [echo](echo.md)
-* [ls](ls.md)
 * [head](head.md)
 * [tail](tail.md)
-* [grep](grep.md)
-* [mkdir](mkdir.md)
+
 * [wget & curl](wget-curl.md)
 * [cp, mv & rm](cp-mv-rm.md)
 * [chmod](chmod.md)
@@ -25,4 +25,6 @@
   * [Root Directory](/root-directory.md)
   * [Terminal](/terminal.md)
 * [Advanced](advanced.md)
+
+
 
