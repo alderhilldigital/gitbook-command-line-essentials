@@ -5,10 +5,10 @@
 * [pwd](pwd.md)
 * [ls](ls.md)
 * [mkdir](mkdir.md)
+* Exercise \(navigation\)
 * [cat](cat.md)
 * [echo](echo.md)
 * [head](head.md)
-* [tail](tail.md)
 
 * [wget & curl](wget-curl.md)
 * [cp, mv & rm](cp-mv-rm.md)
