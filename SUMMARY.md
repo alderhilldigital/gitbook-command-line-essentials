@@ -1,17 +1,21 @@
 # Summary
 
 * [Introduction](README.md)
+* [Definitions](definitions.md)
+  * [Operating System](/operating-system.md)
+  * [Root Directory](/root-directory.md)
+  * [Terminal](/terminal.md)
 * [cd](cd.md)
 * [pwd](pwd.md)
 * [ls](ls.md)
 * [mkdir](mkdir.md)
-* Exercise \(navigation\)
-* [cat](cat.md)
+* [Exercise \(navigation\)](exercise-navigation.md)
 * [echo](echo.md)
+* [cat](cat.md)
 * [head](head.md)
 
+* [Exercise \(File Management\)](exercise-file-management.md)
 * [wget & curl](wget-curl.md)
-* [cp, mv & rm](cp-mv-rm.md)
 * [chmod](chmod.md)
 * [chown](chown.md)
 * [whatis, which & whereis](whatis-which-whereis.md)
@@ -20,10 +24,6 @@
 * [sudo](sudo.md)
 * [history](history.md)
 * [reboot / shutdown](reboot-shutdown.md)
-* [Definitions](definitions.md)
-  * [Operating System](/operating-system.md)
-  * [Root Directory](/root-directory.md)
-  * [Terminal](/terminal.md)
 * [Advanced](advanced.md)
 
 
