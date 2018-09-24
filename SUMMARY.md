@@ -14,6 +14,7 @@
 * [cat](cat.md)
 * [head](head.md)
 * [Exercise \(File Management\)](exercise-file-management.md)
+* [Link back to Permissions](link-back-to-permissions.md)
 * [sudo](sudo.md)
 * [chmod](chmod.md)
 * [chown](chown.md)
