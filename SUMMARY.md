@@ -9,16 +9,20 @@
 * [pwd](pwd.md)
 * [ls](ls.md)
 * [mkdir](mkdir.md)
+* [cp mv rm](/cp-mv-rm.md)
 * [Exercise \(navigation\)](exercise-navigation.md)
 * [echo](echo.md)
 * [cat](cat.md)
 * [head](head.md)
+* [tail](/tail.md)
 * [Exercise \(File Management\)](exercise-file-management.md)
 * [Link back to Permissions](link-back-to-permissions.md)
 * [sudo](sudo.md)
 * [chmod](chmod.md)
 * [chown](chown.md)
 * [Exercise \(File Permissions\)](exercise-file-permissions.md)
+* [pipe](/pipe.md)
+* [grep](/grep.md)
 * [wget & curl](wget-curl.md)
 * [whatis, which & whereis](whatis-which-whereis.md)
 * [find](find.md)
@@ -26,4 +30,6 @@
 * [history](history.md)
 * [reboot / shutdown](reboot-shutdown.md)
 * [Advanced](advanced.md)
+
+
 
